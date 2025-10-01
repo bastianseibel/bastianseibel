@@ -2,7 +2,7 @@
 
 I'm a **Media Informatics student at the University of Stuttgart**
 
-💻 **Languages:** JavaScript, TypeScript, HTML, CSS
-🎨 **Frontend:** React, Angular
-🖥️ **Backend:** Node.js
+💻 **Languages:** JavaScript, TypeScript, HTML, CSS<br>
+🎨 **Frontend:** React, Angular<br>
+🖥️ **Backend:** Node.js<br>
 🎮 **Other Interests:** 3D animation like Blender, game development,
